@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A Passionate Full Stack Develpoer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishmandrai&label=Profile%20views&color=0e75b6&style=flat" alt="manishmandrai" /> </p>
