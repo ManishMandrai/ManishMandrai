@@ -116,13 +116,3 @@
     </a>
 </p>
 
-
-<h3 align="left">Support:</h3>
-<p><a href="buymeacoffee.com/manishmandrai
-"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/Manishmandrai" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishmandrai&show_icons=true&locale=en&layout=compact" alt="manishmandrai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishmandrai&show_icons=true&locale=en" alt="manishmandrai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishmandrai&" alt="manishmandrai" /></p>
