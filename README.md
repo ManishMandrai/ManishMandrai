@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [- C++ Programming](https://github.com/ManishMandrai?tab=repositories)
 
-- 🌱 I’m currently learning **- C++ Programming**
+- 🌱 I’m currently learning **- Web Development**
 
-- 👯 I’m looking to collaborate on **- C++ Programming and web development**
+- 👯 I’m looking to collaborate on **- Web development**
 
-- 👨‍💻 All of my projects are available at [https://portfoliomanishkumar.netlify.app/](https://portfoliomanishkumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliomanishkumar.netlify.app/](https://portfolio-olive-nine-94.vercel.app/)
 
-- 💬 Ask me about **- C++, React.js, Node.js, JavaScript, Python, Php**
+- 💬 Ask me about **- React.js, Node.js, JavaScript,**
 
 - 📫 How to reach me **manishkumarmandrai@gmail.com**
 
-- 📄 Know about my experiences [https://portfoliomanishkumar.netlify.app/](https://portfoliomanishkumar.netlify.app/)
+- 📄 Know about my experiences [https://portfoliomanishkumar.netlify.app/](https://portfolio-olive-nine-94.vercel.app/)
 
 - ⚡ Fun fact **- Tab >>> 4 spaces**
 
@@ -32,7 +32,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;"> <!-- Added gap between images -->
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;"> <!-- Added gap between images -->
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
     </a>
