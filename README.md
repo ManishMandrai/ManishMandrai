@@ -32,7 +32,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> <!-- Added gap between images -->
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;"> <!-- Added gap between images -->
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
     </a>
