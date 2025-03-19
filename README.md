@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **manishkumarmandrai@gmail.com**
 
-- 📄 Know about my experiences [Poertolio](https://www.devmanish.com/)
+- 📄 Know about my experiences [Portfolio](https://www.devmanish.com/)
 
 - ⚡ Fun fact **- Tab >>> 4 spaces**
 
