@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **- Web development**
 
-- 👨‍💻 All of my projects are available at [devmanish.com)
+- 👨‍💻 All of my projects are available at [https://www.devmanish.com/)
 
 - 💬 Ask me about **- React.js, Node.js, JavaScript,**
 
