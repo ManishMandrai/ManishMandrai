@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Manish </h1>
 <h3 align="center">🚀 Full-Stack Web Developer | Crafting Scalable, Modern, and AI-Driven Web Apps</h3>
 
 <p align="center">
