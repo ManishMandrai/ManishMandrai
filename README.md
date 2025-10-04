@@ -21,7 +21,7 @@
 - 💡 I’m passionate about **building scalable, secure, and high-performance applications**  
 - 📫 Reach me at **manishkumarmandrai@gmail.com**  
 - 🌐 Explore my work at [**Portfolio → devmanish.com**](https://www.devmanish.com/)  
-- ⚡ Fun fact: tab >> 4 space 😎  
+- ⚡ Fun fact: Tab >> 4 space 😎  
 
 ---
 
