@@ -133,6 +133,9 @@
 
 <!-- Detailed Contribution Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManishMandrai&theme=tokyonight" 
-       alt="Profile Details" width="100%" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManishMandrai&theme=tokyonight"
+    alt="Profile Details"
+    style="max-width: 900px; width: 100%;"
+  />
 </p>
