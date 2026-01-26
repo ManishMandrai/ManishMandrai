@@ -105,15 +105,26 @@
 
 ---
 
-### 📊 GitHub Contributions
+---
 
+### 📈 GitHub Contributions
+
+#### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishMandrai&theme=tokyonight&hide_border=true&area=true" 
-       alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishMandrai&theme=tokyonight&custom_title=Contribution%20Activity&hide_border=true&area=true&line=0e76a8&point=0e76a8&color=0e76a8" 
+       alt="Contribution Graph" width="100%" />
 </p>
 
-<!-- Or use this for just the calendar -->
+#### Contribution Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/ManishMandrai" 
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishMandrai&show_icons=true&theme=tokyonight&hide=issues,prs" 
+       alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishMandrai&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" />
+</p>
+
+#### Contribution Calendar
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=ManishMandrai&theme=tokyonight" 
        alt="Contribution Calendar" />
 </p>
