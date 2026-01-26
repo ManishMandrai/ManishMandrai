@@ -107,24 +107,32 @@
 
 ---
 
-### 📈 GitHub Contributions
+---
 
-#### Contribution Graph
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishMandrai&theme=tokyonight&custom_title=Contribution%20Activity&hide_border=true&area=true&line=0e76a8&point=0e76a8&color=0e76a8" 
-       alt="Contribution Graph" width="100%" />
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishMandrai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
+       alt="GitHub Stats" height="165" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishMandrai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="GitHub Streak" height="165" />
 </p>
 
-#### Contribution Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishMandrai&show_icons=true&theme=tokyonight&hide=issues,prs" 
-       alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishMandrai&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishMandrai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" 
+       alt="Top Languages" height="165" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishMandrai&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity" 
+       alt="Contribution Graph" height="165" />
 </p>
 
-#### Contribution Calendar
+<!-- Detailed Contribution Stats -->
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ManishMandrai&theme=tokyonight" 
-       alt="Contribution Calendar" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManishMandrai&theme=tokyonight" 
+       alt="Profile Details" width="100%" />
 </p>
