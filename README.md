@@ -110,8 +110,5 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ManishMandrai&theme=tokyonight"
-    alt="Manish Kumar GitHub Streak"
-  />
+<img src="https://ghchart.rshah.org/ManishMandrai" />
 </p>
