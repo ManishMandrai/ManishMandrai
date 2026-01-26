@@ -103,6 +103,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishmandrai&show_icons=true&theme=tokyonight" alt="Manish Kumar Stats" />
-  <img src="https://streak-stats.demolab.com?user=ManishMandrai&theme=transparent&hide_border=true" alt="Manish Kumar Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ManishMandrai&show_icons=true&theme=tokyonight" 
+    alt="Manish Kumar Stats" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=ManishMandrai&theme=tokyonight" 
+    alt="Manish Kumar Streak" 
+  />
 </p>
