@@ -102,17 +102,18 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ManishMandrai&show_icons=true&theme=tokyonight" 
-    alt="Manish Kumar GitHub Stats" 
-  />
-</p>
+
+---
+
+### 📊 GitHub Contributions
 
 <p align="center">
-  <img 
-    src="https://ghchart.rshah.org/ManishMandrai" 
-    alt="Manish Kumar GitHub Contribution Chart" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishMandrai&theme=tokyonight&hide_border=true&area=true" 
+       alt="Contribution Graph" />
 </p>
 
+<!-- Or use this for just the calendar -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/ManishMandrai" 
+       alt="Contribution Calendar" />
+</p>
