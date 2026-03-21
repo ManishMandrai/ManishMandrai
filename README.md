@@ -50,7 +50,8 @@
 ## 🌟 Featured Work
 
 ### 🔹 Personal Portfolio  
-👉 https://www.devmanish.com/  
+👉 https://www.devmanish.com/ | http://devmanishhh.vercel.app/
+
 Modern developer portfolio built with **Next.js + Tailwind**
 
 ### 🔹 MERN Auth System  
