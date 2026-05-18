@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://devmanishhh.vercel.app/"><b>Portfolio</b></a> •
   <a href="mailto:manishkumarmandrai@gmail.com"><b>Email</b></a> •
-  <a href="https://www.linkedin.com/in/manish-kumar-mandrai/"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/manish-mandrai/"><b>LinkedIn</b></a>
 </p>
 
 ---
