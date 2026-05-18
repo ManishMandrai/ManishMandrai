@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Manish</h1>
-<h3 align="center">Full-Stack Developer building scalable & AI-powered web apps</h3>
+<h3 align="center">Full-Stack Developer · React · Next.js · Node.js</h3>
 
 <p align="center">
   <a href="https://www.devmanish.com/"><b>Portfolio</b></a> •
@@ -12,53 +12,39 @@
 ## 🚀 About Me
 
 - 💻 Full-stack developer focused on **real-world production apps**
-- ⚡ Currently building & improving **MERN + Next.js applications**
-- 🧠 Exploring **AI integrations (LangChain, TensorFlow.js)**
-- 🎯 Goal: Build **scalable products + reach strong engineering level**
+- 🛒 Built **matural.shop** — MERN e-commerce with 1000+ monthly active users
+- ⚡ Currently sharpening **DSA, system design & Next.js App Router**
+- 🎯 Goal: Land a strong engineering role and keep shipping real products
 
 ---
 
 ## 🧠 Tech Stack
 
 ### Frontend
-- React.js  
-- Next.js  
-- Tailwind CSS  
-- JavaScript (ES6+)  
-- Zustand / Redux  
+React.js · Next.js · Tailwind CSS · JavaScript (ES6+) · TypeScript · Redux Toolkit
 
 ### Backend
-- Node.js  
-- Express.js  
-- MongoDB  
-- PostgreSQL  
-- Prisma / Drizzle ORM  
-- REST APIs & GraphQL  
+Node.js · Express.js · MongoDB · REST APIs
 
-### Dev & Tools
-- Git & GitHub  
-- Docker (basic)  
-- AWS / Firebase (basics)  
-- Figma  
+### Auth & Payments
+JWT · Clerk · Firebase Auth · Razorpay
 
-### AI / Emerging
-- LangChain  
-- TensorFlow.js  
+### Tools & Deployment
+Git · GitHub · Vercel · Postman · Figma
 
 ---
 
-## 🌟 Featured Work
+## 🌟 Featured Projects
 
-### 🔹 Personal Portfolio  
-👉 https://www.devmanish.com/ | http://devmanishhh.vercel.app/
+### 🔹 matural.shop — E-Commerce Platform
+Full-stack MERN app · 1000+ monthly users · JWT auth · Razorpay · Cloudinary  
+SEO score improved from 72 → 91 · Optimized LCP & CLS
 
-Modern developer portfolio built with **Next.js + Tailwind**
+### 🔹 Real-Time Chat App
+Next.js · TypeScript · Clerk auth · Stream SDK · Deployed on Vercel
 
-### 🔹 MERN Auth System  
-Secure authentication system with **JWT, role-based access, and protected routes**
-
-### 🔹 AI-Powered App  
-Experimenting with **AI workflows using LangChain + TensorFlow.js**
+### 🔹 Portfolio
+👉 [MANISH](https://devmanishhh.vercel.app/) — Built with Next.js + Tailwind
 
 ---
 
@@ -71,18 +57,10 @@ Experimenting with **AI workflows using LangChain + TensorFlow.js**
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
-<p align="left">
-  <a href="https://twitter.com/devbymanish">Twitter</a> •
-  <a href="https://www.linkedin.com/in/manish-kumar-mandrai/">LinkedIn</a> •
-  <a href="https://www.instagram.com/manish._.mandrai/">Instagram</a> •
-  <a href="https://www.youtube.com/@manish.mandrai">YouTube</a>
-</p>
+[Twitter](https://twitter.com/devbymanish) · [LinkedIn](https://www.linkedin.com/in/manish-kumar-mandrai/) · [YouTube](https://www.youtube.com/@manish.mandrai)
 
 ---
 
-## ⚡ Philosophy
-
-> Build things. Ship fast. Improve daily.  
-> Consistency > Motivation.
+> Build things. Ship fast. Improve daily.
