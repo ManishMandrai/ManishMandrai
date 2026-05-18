@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · React · Next.js · Node.js</h3>
 
 <p align="center">
-  <a href="https://www.devmanish.com/"><b>Portfolio</b></a> •
+  <a href="https://devmanishhh.vercel.app/"><b>Portfolio</b></a> •
   <a href="mailto:manishkumarmandrai@gmail.com"><b>Email</b></a> •
   <a href="https://www.linkedin.com/in/manish-kumar-mandrai/"><b>LinkedIn</b></a>
 </p>
@@ -59,7 +59,7 @@ Next.js · TypeScript · Clerk auth · Stream SDK · Deployed on Vercel
 
 ## 🤝 Connect
 
-[Twitter](https://twitter.com/devbymanish) · [LinkedIn](https://www.linkedin.com/in/manish-kumar-mandrai/) · [YouTube](https://www.youtube.com/@manish.mandrai)
+[Twitter](https://twitter.com/devbymanish) · [LinkedIn](https://www.linkedin.com/in/manish-mandrai/) · [YouTube](https://www.youtube.com/@manish.mandrai)
 
 ---
 
